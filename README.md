@@ -2,7 +2,7 @@
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/?username=SADMAN30102001SAKIB&count_private=true&theme=tokyonight&showicons=true"/>
 
-**<h2>I'm Sadman</h2>** <h3 style="margin-top:500px;"> specializing in web engineering and DevOps. Interested in front-end technologies like JavaScript, TypeScript & React. Proficient in back-end development using Node.js, Express.js, and MongoDB. Passionate about open-source contributions.<h3/>
+**<h2>I'm Sadman</h2>** <h3 style="position: absolute;top:500px;"> specializing in web engineering and DevOps. Interested in front-end technologies like JavaScript, TypeScript & React. Proficient in back-end development using Node.js, Express.js, and MongoDB. Passionate about open-source contributions.<h3/>
 
 <br/>
 
