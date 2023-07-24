@@ -1,6 +1,6 @@
 # Hey There! 👋
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/?username=SADMAN30102001SAKIB&count_private=true&theme=tokyonight&showicons=true"/>
+<img align="right" width="600" src="https://github-readme-stats.vercel.app/api/?username=SADMAN30102001SAKIB&count_private=true&theme=tokyonight&showicons=true"/>
 
 <br/>
 
