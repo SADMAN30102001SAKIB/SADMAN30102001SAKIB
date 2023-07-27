@@ -1,6 +1,6 @@
 # Hey There! I'm Sadman 👋,
 
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api/?username=SADMAN30102001SAKIB&count_private=true&theme=tokyonight&showicons=true"/>
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/?username=SADMAN30102001SAKIB&count_private=true&theme=tokyonight&showicons=true"/>
 
 <h1>I'm currently learning Web Engineering. Interested in DevOps and passionate about Open-Source Contributions & Hackathons.<h1/>
 
