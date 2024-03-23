@@ -2,8 +2,9 @@
   <tr>
     <td style="border: none;">Hey There! I'm Sadman 👋<br/>A Web / MERN Stack Developer. <br/>Interested In Full-Stack Engineering,<br/>Passionate About Open-Source Contributions.</td>
     <td style="border: none;">
-      profile<br/>views👀
-      <img align="right" src="https://profile-counter.glitch.me/SADMAN30102001SAKIB/count.svg" alt="Profile views"/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;profile views👀
+      <br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://profile-counter.glitch.me/SADMAN30102001SAKIB/count.svg" alt="Profile views"/>
     </td>
   </tr>
   <tr>
