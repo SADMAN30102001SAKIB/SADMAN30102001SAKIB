@@ -9,16 +9,14 @@
   </tr>
   <tr>
     <td colspan="2" style="border: none;">
-      <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=SADMAN30102001SAKIB&theme=radical" alt="Top Languages"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=SADMAN30102001SAKIB&theme=radical" alt="Top Languages"/>
     </td>
   </tr>
   <tr>
     <td style="border: none;">
-      <br/>
       <img src="https://github-readme-stats.vercel.app/api?username=SADMAN30102001SAKIB&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="GitHub Stats"/>
     </td>
     <td style="border: none;">
-      <br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SADMAN30102001SAKIB&layout=compact&theme=radical" alt="GitHub Streak Stats"/>
     </td>
   </tr>
