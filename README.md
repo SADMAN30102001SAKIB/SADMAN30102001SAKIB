@@ -1,15 +1,14 @@
 <table style="border-collapse: collapse; border: none;">
   <tr>
-    <td style="border: none;">Hey There! I'm Sadman 👋</td>
+    <td style="border: none;">Hey There! I'm Sadman 👋<br/>A Web / MERN Stack Developer. <br/>Interested In Full-Stack Engineering,<br/>Passionate About Open-Source Contributions.</td>
     <td style="border: none;">
       views👀
       <img align="right" src="https://profile-counter.glitch.me/SADMAN30102001SAKIB/count.svg" alt="Profile views"/>
     </td>
   </tr>
   <tr>
-    <td style="border: none;">A Web / MERN Stack Developer. <br/>Interested In Full-Stack Engineering,<br/>Passionate About Open-Source Contributions.</td>
-    <td style="border: none;">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SADMAN30102001SAKIB&layout=compact&theme=radical" alt="Top Languages"/>
+    <td colspan="2" style="border: none;">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=SADMAN30102001SAKIB&theme=radical" alt="Top Languages"/>
     </td>
   </tr>
   <tr>
@@ -17,7 +16,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=SADMAN30102001SAKIB&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="GitHub Stats"/>
     </td>
     <td style="border: none;">
-      <img width="415" src="https://github-readme-streak-stats.herokuapp.com/?user=SADMAN30102001SAKIB&theme=radical" alt="GitHub Streak Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SADMAN30102001SAKIB&layout=compact&theme=radical" alt="GitHub Streak Stats"/>
     </td>
   </tr>
 </table>
