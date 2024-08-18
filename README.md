@@ -22,5 +22,5 @@
   </tr>
 </table>
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,py,vscode,twitter,stackoverflow,regex,powershell,netlify,matlab,linux,linkedin,heroku,githubactions,github,git,django,discord,codepen,webpack,vite,vercel,ts,threejs,tailwind,svg,sass,replit,redux,redis,react,pug,postman,postgres,php,nodejs,nginx,mysql,mongodb,md,latex,kubernetes,jquery,jest,jenkins,java,idea,graphql,gatsby,firebase,express,docker,bots,devto,cloudflare,cpp,c,bootstrap,bash,babel,aws,astro,arduino,ansible)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=ansible,apollo,appwrite,arduino,astro,aws,babel,bash,bootstrap,bun,c,cpp,cloudflare,css,discord,bots,discordjs,django,docker,elasticsearch,electron,express,flask,git,github,githubactions,go,gradle,graphql,html,js,jenkins,jest,kafka,kali,Kubernetes,latex,linkedin,linux,md,materialui,mongodb,mysql,neovim,nestjs,netlify,nextjs,nginx,nodejs,npm,opencv,php,pnpm,postgres,postman,powershell,prisma,prometheus,pug,py,rabbitmq,raspberrypi,react,redis,redux,replit,sass,stackoverflow,supabase,sklearn,selenium,sentry,solidity,svg,tailwind,tensorflow,terraform,threejs,twitter,ts,ubuntu,vercel,vite,vitest,vscode,wasm,webpack,windows,workers,yarn)](https://skillicons.dev)
 <img src="https://github.com/SADMAN30102001SAKIB/SADMAN30102001SAKIB/blob/main/github-contribution-grid-snake.svg"/>
