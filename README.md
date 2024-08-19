@@ -1,6 +1,6 @@
 <table style="border-collapse: collapse; border: none;">
   <tr>
-    <td style="border: none;">Hey There! I'm Sadman 👋,<br/>A Web / MERN Stack Developer. <br/>Passionate About Full-Stack Engineering,<br/>Interested In Open-Source Contribution.</td>
+    <td style="border: none;">Hey There! I'm Sadman 👋,<br/>A Web / MERN Stack Developer. <br/>Passionate About Software Engineering,<br/>Interested In Open-Source Contribution.</td>
     <td style="border: none;">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;profile views👀
       <br/>
