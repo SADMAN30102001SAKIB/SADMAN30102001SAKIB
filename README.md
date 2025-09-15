@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=SADMAN30102001SAKIB&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=SADMAN30102001SAKIB&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&theme=radical" alt="GitHub Stats"/>
     </td>
     <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SADMAN30102001SAKIB&layout=compact&theme=radical" alt="GitHub Streak Stats"/>
