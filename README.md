@@ -1,6 +1,6 @@
 <table style="border-collapse: collapse; border: none;">
   <tr>
-    <td style="border: none;">Engineering isn't about what you know, it's about what you can figure out</td>
+    <td style="border: none;">Engineering Isn't About What You Know, It's About What You Can Figure Out</td>
     <td style="border: none;">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=SADMAN30102001SAKIB&label=Profile%20views&color=red&style=for-the-badge" alt="Profile views"/>
     </td>
